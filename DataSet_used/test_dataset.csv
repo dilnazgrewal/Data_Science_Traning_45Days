@@ -1,0 +1,101 @@
+﻿Order_ID,Order_Date,Customer_Name,City,Category,Product_Name,Quantity,Discount,Sales,Payment_Mode,Rating,Delivery_Days,Returned
+ORD-1001,11-03-2024,Arjun,Chandigarh,Beauty,Moisturizer,1,0.25,111.75,UPI,5,9,Yes
+ORD-1002,01/24/2024,Ritika,Chandigarh,Stationery,Stapler,1,0,799,Net Banking,2.5,9,No
+ORD-1003,24-04-2024,Kabir,Mohali,Beauty,Face Wash,7,0.05,33243.35,Card,5,7,No
+ORD-1004,27-01-2024,,Jaipur,Furniture,Chair,4,0.1,716.4,Cash,3.5,10,No
+ORD-1005,21-01-2024,Tanya,Mohali,Electronics,Power Bank,2,0.15,1698.3,Cash,4.5,4,Yes
+ORD-1006,01/21/2024,Arjun,Mumbai,Electronics,Charger,4,0.1,17996.4,Cash,4,6,No
+ORD-1007,09-03-2024,Rahul,Bengaluru,Furniture,Desk,4,0.25,1797,Card,3,8,No
+ORD-1008,24-03-2024,Neha,Chandigarh,Furniture,Chair,4,0.25,14997,Cash,4,5,Yes
+ORD-1009,16-06-2024,Rohit,,Clothing,Shirt,6,0.05,14244.3,Card,3.5,3,No
+ORD-1010,05/29/2024,Mehak,Jaipur,Beauty,Lip Balm,5,0.25,5621.25,Card,3,9,No
+ORD-1011,09-06-2024,Priya,Jaipur,Electronics,Power Bank,2,0.05,188.1,UPI,4,7,No
+ORD-1012,30-01-2024,Tanya,Mohali,Stationery,Marker,1,0.25,299.25,UPI,3.5,7,No
+ORD-1013,15-02-2024,Sneha,Mumbai,,Tea Pack,5,0.2,396,Net Banking,4.5,4,No
+ORD-1014,03/23/2024,Rohit,Delhi,Furniture,Chair,1,0.2,159.2,Cash,3.5,4,Yes
+ORD-1015,04-05-2024,Rahul,Bengaluru,Clothing,Jeans,2,0,4998,COD,4.5,3,No
+ORD-1016,18-05-2024,Ritika,Mohali,Stationery,File Folder,10,0.05,16618.35,Cash,4,9,No
+ORD-1017,27-03-2024,Aman,Chandigarh,Electronics,Power Bank,4,0,996,Card,2.5,2,Yes
+ORD-1018,01/19/2024,Sneha,Chandigarh,Clothing,Kurti,1,0.1,134.1,COD,3,9,No
+ORD-1019,01-05-2024,Mehak,Chandigarh,Beauty,Face Wash,8,0.05,18992.4,UPI,5,7,No
+ORD-1020,14-01-2024,Simran,Delhi,Grocery,Cooking Oil,8,0.25,4794,Cash,2.5,4,No
+ORD-1021,18-04-2024,Priya,Mohali,Clothing,Shirt,8,0.05,"₹ 2,499",Card,2.5,8,Yes
+ORD-1022,03-01-2024,Priya,Jaipur,Electronics,Charger,1,0,4999,COD,3,7,Yes
+ORD-1023,08-03-2024,Nikhil,Mohali,Clothing,Shirt,,0.15,679.15,Net Banking,5,8,No
+ORD-1024,28-05-2024,Tanya,Delhi,Clothing,Kurti,4,0,1596,UPI,2.5,10,No
+ORD-1025,10-05-2024,Rahul,Bengaluru,Stationery,Notebook,3,0,4497,Net Banking,2.5,4,No
+ORD-1026,06-01-2024,Neha,Mumbai,Electronics,Charger,4,20%,7996.8,Net Banking,4.5,9,No
+ORD-1027,08-03-2024,Sahil,Bengaluru,Furniture,Bookshelf,6,,1419.3,COD,3.5,2,Yes
+ORD-1028,17-05-2024,Ritika,Mohali,Grocery,Wheat Flour,2,0,4998,Cash,2.5,4,No
+ORD-1029,29-06-2024,Isha,Delhi,Furniture,Desk,8,0.2,1273.6,Cash,5,2,No
+ORD-1030,05/21/2024,Karan,Mohali,Furniture,Bookshelf,2,0.25,223.5,Net Banking,3,6,No
+ORD-1031,05-05-2024,Manpreet,Delhi,Beauty,Face Wash,5,0.2,19996,COD,five,1,Yes
+ORD-1032,23-04-2024,Tanya,Jaipur,Furniture,Desk,5,0.05,945.25,UPI,,2,No
+ORD-1033,21-05-2024,Karan,Jaipur,Stationery,Pen Set,6,0.2,475.2,UPI,3.5,6,Yes
+ORD-1034,01/27/2024,Anjali,Jaipur,Furniture,Desk,4,0.25,747,Card,3,3,No
+ORD-1035,26-03-2024,Mehak,Chandigarh,Grocery,Tea Pack,3,0.25,222.75,Card,5,2,No
+ORD-1036,27-04-2024,Anjali,Mohali,Electronics,Keyboard,4,0.05,3796.2,Card,2.5,seven,No
+ORD-1037,30-03-2024,Sneha,Jaipur,Furniture,Desk,2,0.1,718.2,Cash,2.5,,No
+ORD-1038,01/28/2024,Jaspreet,Jaipur,Clothing,Kurti,5,0,12495,Cash,4,10,Yes
+ORD-1039,12-01-2024,Mehak,Delhi,Grocery,Sugar,4,0.1,8996.4,Net Banking,5,4,No
+ORD-1040,21-03-2024,Simran,Mohali,Grocery,Sugar,6,0.2,715.2,Cash,5,7,No
+ORD-1041,17-04-2024,Sahil,Bengaluru,Grocery,Sugar,3,0.05,1137.15,Net Banking,3.5,7,Yes
+ORD-1042,05/28/2024,Jaspreet,Pune,Furniture,Stool,0,0.15,1356.6,COD,4,4,No
+ORD-1043,11-05-2024,Jaspreet,Pune,Beauty,Face Wash,-3,0.1,358.2,Card,5,5,No
+ORD-1044,03-03-2024,Rohit,Mumbai,Clothing,Shirt,1,-0.1,199,COD,5,10,No
+ORD-1045,03-03-2024,Karan,Delhi,Beauty,Face Wash,8,0.15,,COD,3,3,No
+ORD-1046,04/26/2024,Karan,Lucknow,Electronics,Power Bank,4,1.2,5996,Net Banking,4.5,6,No
+ORD-1047,24-04-2024,Priya,Lucknow,Stationery,File Folder,7,0.2,8394.4,Cash,6,5,No
+ORD-1048,20-01-2024,Isha,Chandigarh,Beauty,Lip Balm,5,0.15,1058.25,Cash,3.5,-2,Yes
+ORD-1049,26-06-2024,Karan,Chandigarh,Clothing,T-Shirt,4,0.15,676.6,COD,4,6,No
+ORD-1050,04-09-2024,Kabir,Delhi,Grocery,Sugar,4,0.15,336.6,COD,4,1,No
+ORD-1051,19-05-2024,Jaspreet,Chandigarh,Furniture,Stool,7,0.2,4474.4,Card,3.5,7,No
+ORD-1052,22-06-2024,Sahil,Bengaluru,Electronics,Charger,120,0.25,3595.5,Card,4.5,9,Yes
+ORD-1053,13-06-2024,Mehak,Bengaluru,Grocery,Cooking Oil,1,0,250000,Card,2.5,5,No
+ORD-1054,03/27/2024,Sahil,Mohali,Furniture,Stool,8,0.1,1792.8,Cash,2.5,60,Yes
+ORD-1055,27-02-2024,Rahul,Delhi,Beauty,Face Wash,1,0.1,1349.1,Card,3,1,No
+ORD-1056,30-01-2024,Kabir,Chandigarh, electronics ,Shirt,8,0.25,1194,Cash,3.5,3,Yes
+ORD-1057,07-01-2024,Isha,Jaipur,ELECTRONICS,Shirt,2,0.2,638.4,Card,2.5,10,No
+ORD-1058,01-11-2024,Anjali,Jaipur,clothng,Headphones,2,0.2,638.4,UPI,4.5,6,Yes
+ORD-1059,02-04-2024,Nikhil,delhi,Grocery,Cooking Oil,2,0.15,1698.3,Card,5,9,No
+ORD-1060,21-04-2024,Kabir, Mumbai ,Stationery,Marker,8,0.15,10193.2,Card,2.5,5,No
+ORD-1061,08-01-2024,Rohit,Pune,Clothing,Jeans,7,0.1,6293.7,cod,3,6,No
+ORD-1062,01-03-2024,Sneha,Chandigarh,Furniture,Chair,5,0.2,1596, Cash ,5,7,No
+ORD-1063,05-05-2024,Nikhil,Delhi,Stationery,Notebook,8,0.25,1494,Cash,3,7,yes
+ORD-1064,21-05-2024,Sneha,Pune,Furniture,Stool,6,0.15,25494.9,Net Banking,3.5,6,NO
+ORD-1065,31-01-2024,Ritika,Pune,Furniture,Chair,5,0.05,1895.25,Net Banking,5,3,No
+ORD-1066,01-02-2024,Sneha,Mohali,Clothing,T-Shirt,5,0.25,3746.25,Card,3.5,4,No
+ORD-1067,02-02-2024,Karan,Mohali,Clothing,T-Shirt,1,0.25,299.25,UPI,4.5,5,No
+ORD-1068,03-02-2024,Isha,Lucknow,Beauty,Sunscreen,2,0,1998,COD,3.5,3,Yes
+ORD-1069,2024/15/01,Rohit,Mumbai,Furniture,Desk,2,0,1998,UPI,3,3,No
+ORD-1070,04/16/2024,Jaspreet,Chandigarh,Electronics,Power Bank,2,0.2,398.4,COD,4,8,No
+ORD-1071,07-06-2024,Neha,Mumbai,Stationery,Pen Set,5,0.2,3196,Card,3.5,2,No
+ORD-1072,01-01-2024,Mehak,Lucknow,Clothing,Jacket,2,0.05,378.1,COD,3.5,1,No
+ORD-1073,24-06-2024,Arjun,Mohali,Furniture,Desk,8,0,3192,Card,4,2,No
+ORD-1074,01/19/2024,Neha,Bengaluru,Beauty,Lip Balm,5,0.05,945.25,Net Banking,5,10,No
+ORD-1075,18-03-2024,Sahil,Mohali,Grocery,Sugar,8,0.25,894,Net Banking,4,8,Yes
+ORD-1076,23-03-2024,Jaspreet,Mohali,Stationery,Notebook,7,0.25,519.75,UPI,3,10,Yes
+ORD-1077,30-04-2024,Sneha,Lucknow,Beauty,Lip Balm,1,0.05,379.05,Card,4.5,7,No
+ORD-1078,03/26/2024,Varun,Mumbai,Electronics,Keyboard,6,0.15,5094.9,Cash,4,8,No
+ORD-1079,23-01-2024,Varun,Mohali,Beauty,Lip Balm,1,0.15,679.15,UPI,4,9,Yes
+ORD-1080,14-01-2024,Ritika,Pune,Beauty,Serum,8,0.15,10193.2,COD,5,8,Yes
+ORD-1081,22-04-2024,Rohit,Mumbai,Clothing,T-Shirt,3,0.1,1077.3,Net Banking,3,3,No
+ORD-1082,02/27/2024,Simran,Lucknow,Stationery,Notebook,7,0,693,Card,4,5,No
+ORD-1083,26-04-2024,Tanya,Bengaluru,Grocery,Cooking Oil,8,0.05,7592.4,Card,4.5,9,No
+ORD-1084,09-05-2024,Manpreet,Delhi,Electronics,Headphones,7,0.1,2513.7,Cash,4.5,10,No
+ORD-1085,26-03-2024,Tanya,Jaipur,Clothing,Shirt,8,0.1,7192.8,Cash,3,4,No
+ORD-1086,05-01-2024,Sahil,Jaipur,Clothing,Jeans,1,0.1,719.1,COD,2.5,3,No
+ORD-1087,26-04-2024,Aman,Bengaluru,Electronics,Charger,2,0.2,1598.4,Card,2.5,8,No
+ORD-1088,21-01-2024,Varun,Jaipur,Furniture,Bookshelf,7,0.25,13119.75,COD,4.5,1,Yes
+ORD-1089,24-01-2024,Mehak,Mumbai,Clothing,T-Shirt,5,0.05,23745.25,COD,3,5,Yes
+ORD-1090,04-01-2024,Anjali,Jaipur,Electronics,Keyboard,1,0.1,539.1,Card,4.5,7,No
+ORD-1073,24-06-2024,Arjun,Mohali,Furniture,Desk,8,0,3192,Card,4,2,No
+ORD-1011,09-06-2024,Priya,Jaipur,Electronics,Power Bank,2,0.05,188.1,UPI,4,7,No
+ORD-1026,06-01-2024,Neha,Mumbai,Electronics,Charger,4,20%,7996.8,Net Banking,4.5,9,No
+ORD-1071,07-06-2024,Neha ,mumbai,Stationery,Pen Set,5,0.2,3196,Card,3.5,2,No
+ORD-1072,01-01-2024,Mehak,Lucknow,Clothing,Jacket,2,0.05,378.1,card,3.5,1,No
+ORD-1041,17-04-2024,Sahil,Bengaluru,Grocery,Sugar,3,0.05,1137.15,Net Banking,3.5,7,Yes
+ORD-1006,01/21/2024,Arjun,Mumbai,Electronics,Charger,4,0.1,17996.4,Cash,4,6,No
+ORD-1056,30-01-2024,Kabir,Chandigarh, electronics ,Shirt,8,0.25,1194,Cash,3.5,3,Yes
+ORD-1061,08-01-2024,Rohit,Pune,Clothing,Jeans,7,0.1,6293.7,cod,3,6,No
+ORD-1016,18-05-2024,Ritika,Mohali,Stationery,File Folder,10,0.05,16618.35,Cash,4,9,No
