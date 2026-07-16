@@ -25,3 +25,7 @@ To build strong foundations in Data Science, Python programming, and problem-sol
 - Day 12: Data Quality Analysis
 - Day 13: Data Cleaning
 - Day 14: Feature Engineering
+- Day 15: Python Test
+- Day 16: Python Test Continued
+- Day 17: Matplotlib Basics
+- Day 18: Matplotlib Continued
