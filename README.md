@@ -29,3 +29,5 @@ To build strong foundations in Data Science, Python programming, and problem-sol
 - Day 16: Python Test Continued
 - Day 17: Matplotlib Basics
 - Day 18: Matplotlib Continued
+- Day 19: Starting with Seaborn (countplot, barplot, histplot)
+- Day 20: Seaborn Completed (scatterplot, heatmap, storytelling) 
