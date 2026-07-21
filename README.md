@@ -31,3 +31,4 @@ To build strong foundations in Data Science, Python programming, and problem-sol
 - Day 18: Matplotlib Continued
 - Day 19: Starting with Seaborn (countplot, barplot, histplot)
 - Day 20: Seaborn Completed (scatterplot, heatmap, storytelling) 
+- Day 21: Performing Visualization Task on Superstore Data
