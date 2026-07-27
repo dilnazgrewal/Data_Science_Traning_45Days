@@ -33,3 +33,5 @@ To build strong foundations in Data Science, Python programming, and problem-sol
 - Day 20: Seaborn Completed (scatterplot, heatmap, storytelling) 
 - Day 21: Performing Visualization Task on Superstore Data
 - Day 22: Machine learning Basics 
+- Day 23: Linear AND Logistic Regression
+- Day 24: Decision Trees 
