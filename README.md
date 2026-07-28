@@ -34,4 +34,6 @@ To build strong foundations in Data Science, Python programming, and problem-sol
 - Day 21: Performing Visualization Task on Superstore Data
 - Day 22: Machine learning Basics 
 - Day 23: Linear AND Logistic Regression
-- Day 24: Decision Trees 
+- Day 24: Linear AND Logistic Regression Continued
+- Day 25: Decision Trees 
+- Day 26: Decision Trees Continued
