@@ -37,3 +37,5 @@ To build strong foundations in Data Science, Python programming, and problem-sol
 - Day 24: Linear AND Logistic Regression Continued
 - Day 25: Decision Trees 
 - Day 26: Decision Trees Continued
+- Day 27: Random Forests
+- Day 28: Random Forests Continued
