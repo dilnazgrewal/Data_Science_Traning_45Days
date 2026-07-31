@@ -39,3 +39,6 @@ To build strong foundations in Data Science, Python programming, and problem-sol
 - Day 26: Decision Trees Continued
 - Day 27: Random Forests
 - Day 28: Random Forests Continued
+- Day 29: Selecting the best model
+- Day 30: Selection process continues followed by loading the model using joblib
+- Day 31-45: Building Project based on whats learned
